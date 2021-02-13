@@ -18,7 +18,7 @@ const navigator = createStackNavigator({
   studentLanding: LandingPageStudent
 }, 
 {
-  initialRouteName: 'tutorLanding',
+  initialRouteName: 'studentLanding',
   defaultNavigationOptions: {
     headerShown: false,
   }
